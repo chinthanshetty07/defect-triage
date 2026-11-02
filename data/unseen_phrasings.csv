@@ -1,0 +1,41 @@
+text,subsystem,severity
+train overshot platform by half a coach despite full service brake,brakes,high
+loco pilot says retardation poor in rain,brakes,high
+hissing air leak under coach B2 near brake equipment,brakes,high
+emergency brake applied by itself twice between stations,brakes,high
+handbrake wheel on C4 hard to turn,brakes,medium
+one leaf keeps bouncing back when closing,doors,medium
+passengers trapped finger in door edge no reopen,doors,high
+doors on left side opened on wrong side at platform,doors,high
+door chime not sounding before closing,doors,low
+door panel rattling loudly while running,doors,low
+saloon temperature 31 deg passengers complaining,hvac,low
+thick smoke smell from roof unit coach D1,hvac,high
+blower running but no cold air,hvac,low
+condensation on ceiling panels dripping on seats,hvac,low
+driver cab heater not working cold morning,hvac,low
+train crawling cant go beyond 30,traction,medium
+motor coach dead no tractive effort,traction,medium
+sudden power cut off while accelerating then recovers,traction,medium
+smell of hot insulation near motor coach underframe,traction,high
+inverter tripping with earth fault code,traction,medium
+sparks seen from roof equipment at speed,pantograph,high
+collector head shoe broken piece missing,pantograph,high
+pan wont go up after night stabling,pantograph,medium
+uplift pressure gauge reading zero,pantograph,medium
+noise like rubbing from roof current collector,pantograph,medium
+speed supervision display shows wrong speed,signalling,high
+onboard train protection keeps braking at green signal,signalling,high
+driver display showing ETCS error then reboot,signalling,high
+movement authority lost repeatedly near depot,signalling,high
+radio and signalling cab unit no power,signalling,high
+loud bang from under coach then shaking,bogie,high
+coach swaying side to side above 70,bogie,high
+oil leaking from damper under C6,bogie,medium
+secondary suspension bag sagging one side,bogie,medium
+thudding noise every wheel turn,bogie,high
+half the ceiling lights dead in coach F2,lighting,low
+destination board showing garbage,lighting,low
+tail lamp off at rear,lighting,medium
+reading lamps not switching on,lighting,low
+platform side indicator lamp not glowing,lighting,low
